@@ -1,4 +1,4 @@
-﻿int namberA=31;
+﻿int namberA=29;
 int namberB=5;
 int result=namberA+namberB;
-console.WriteLine(result);
+Console.WriteLine(result);
